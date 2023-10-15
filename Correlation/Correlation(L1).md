@@ -100,4 +100,4 @@ In a new cell (let's say E2), write the formula:
 - For Dataset 1, Excel will calculate the correlation coefficient between the ages (A1:A5) and their corresponding monthly spending (B1:B5).
 - For Dataset 2, it will calculate the correlation coefficient between the study hours (C1:C5) and the corresponding exam scores (D1:D5).
 
-After inputting the formulas, hit "Enter" to get the correlation coefficient for each dataset. A negative number represents a negative correlation, a positive number represents a positive correlation, and a number close to 0 indicates little to no correlation. Remember to interpret these values in the context of the data you're analyzing!
+After inputting the formulas, hit "Enter" to get the correlation coefficient for each dataset. A negative number represents a negative correlation, a positive number represents a positive correlation, and a number close to 0 indicates little to no correlation. 
